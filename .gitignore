@@ -1,0 +1,4 @@
+build/ztool/*
+dist/*
+ztool.spec
+*__pycache__
